@@ -1,0 +1,21 @@
+//HEADER START//
+.header__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 67px;
+  margin-top: 64px;
+}
+.sitenav__list {
+  display: flex;
+  gap: 42px;
+}
+.sitenav-link {
+  color: $text-color;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 2px;
+}
+
+//HEADER END//
